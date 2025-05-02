@@ -3,5 +3,5 @@
 ## 📦 Installation
 
 ```fish
-fisher install username/kanagawa-fish
+fisher install hwisu/kanagawa-fish
 ```
