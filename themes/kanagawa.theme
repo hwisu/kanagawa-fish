@@ -1,0 +1,32 @@
+# Kanagawa Theme (fish)
+# A theme based on the Kanagawa color palette
+
+# Syntax Highlighting
+fish_color_normal DCD7BA
+fish_color_command 7FB4CA
+fish_color_keyword 957FB8
+fish_color_quote 76946A
+fish_color_redirection A3D4D5
+fish_color_end DCA561
+fish_color_error C34043
+fish_color_param FF9E3B
+fish_color_comment 727169
+fish_color_selection --background=2D4F67
+fish_color_search_match --background=2D4F67
+fish_color_operator 6A9589
+fish_color_escape 658594
+fish_color_autosuggestion 54546D
+fish_color_cancel E82424
+fish_color_option 76946A
+
+# Prompt
+fish_color_cwd FF9E3B
+fish_color_user 957FB8
+fish_color_host 658594
+
+# Completion Pager
+fish_pager_color_progress 727169
+fish_pager_color_prefix A3D4D5
+fish_pager_color_completion DCD7BA
+fish_pager_color_description 54546D
+fish_pager_color_selected_background --background=2D4F67
