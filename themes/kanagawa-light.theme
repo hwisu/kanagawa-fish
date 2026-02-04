@@ -1,0 +1,47 @@
+# Kanagawa Light Theme (Lotus) for Fish
+# A light theme based on the Kanagawa Lotus color palette
+# Inspired by the colors of the famous painting by Katsushika Hokusai
+
+# Syntax Highlighting Colors
+fish_color_normal 545464
+fish_color_command 4D699B
+fish_color_keyword 624C83
+fish_color_quote 6F894E
+fish_color_redirection 4E8CA2
+fish_color_end CC6D00
+fish_color_error E82424
+fish_color_param 5D57A3
+fish_color_comment 8A8980
+fish_color_selection --background=9FB5C9
+fish_color_search_match --background=9FB5C9
+fish_color_operator 836F4A
+fish_color_escape 597B75
+fish_color_autosuggestion A09CAC
+fish_color_cancel E82424
+fish_color_option 6E915F
+fish_color_valid_path --underline
+
+# Prompt Colors
+fish_color_cwd CC6D00
+fish_color_user 624C83
+fish_color_host 4D699B
+fish_color_host_remote B35B79
+
+# Completion Pager Colors
+fish_pager_color_progress 8A8980
+fish_pager_color_prefix 4E8CA2
+fish_pager_color_completion 545464
+fish_pager_color_description A09CAC
+fish_pager_color_selected_background --background=9FB5C9
+fish_pager_color_selected_prefix 4D699B
+fish_pager_color_selected_completion 43436C
+fish_pager_color_selected_description 4E8CA2
+fish_pager_color_secondary_background --background=E5DDB0
+fish_pager_color_secondary_prefix 4D699B
+fish_pager_color_secondary_completion 545464
+fish_pager_color_secondary_description A09CAC
+
+# Additional elements
+fish_color_history_current 4D699B
+fish_color_status E82424
+fish_color_match --background=D7CEB0
